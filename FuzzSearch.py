@@ -2,6 +2,7 @@ from fuzzywuzzy import fuzz
 import os, sys
 
 def Search(Iterator, query):
+    query = query.lower()
     strings = [s for s in Iterator]
 
     tar = [strings[0] for _ in range(5)]
