@@ -1,9 +1,11 @@
 # Get-Similar-Files
 ## A simple python script to get top 5 visible similar files for your query<br>
 
-Usage -
+#### Usage -
+```
 In your current folder
-python3 path_to_FuzzSearch.py 
+python3 path_to_FuzzSearch.py query_file_or_folder
+```
 
 #### For using install fuzzywuzzy and python-Levenshtein python packages. 
 
