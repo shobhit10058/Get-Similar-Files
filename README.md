@@ -28,3 +28,19 @@ Search some_file
 source ~/.Custom.sh
 ```
 #### and then use it whenever you want
+
+#### Sample usage
+```
+:~/Desktop/Sample_Folder$ ls
+Buzz  Fuzz  I_have_forgotten_my_file  Lets_Rock  Music  python_Usage  rat_inside_maze  search_algorithms  Use_search_Inside_Folder
+```
+```
+Search Sarch
+
+The most similar are:
+Use_search_Inside_Folder
+search_algorithms
+Lets_Rock
+python_Usage
+Music
+```
