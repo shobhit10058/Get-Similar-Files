@@ -13,3 +13,4 @@ Search(){
      python3 path_to_file $@
 }
 ```
+#### and then Search some_file
